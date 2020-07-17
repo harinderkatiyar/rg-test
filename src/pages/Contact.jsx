@@ -74,7 +74,7 @@ alert(data.mobile)
       placeholder="Mobile"
     />
   </div>
-  {/* <div className="mb-3">
+   <div className="mb-3">
     <label htmlFor="exampleFormControlTextarea1" className="form-label">
       Message
     </label>
@@ -87,7 +87,7 @@ alert(data.mobile)
       rows={3}
       defaultValue={""}
     ></textarea>
-  </div> */}
+  </div> 
   <div className="col-12">
     <button className="btn btn-primary" type="submit">Submit form</button>
    
